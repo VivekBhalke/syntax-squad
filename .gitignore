@@ -1,4 +1,4 @@
 ./backend/.env
-./frontend/cummins-project/.env
+./frontend/.env
 ./backend/node_modules
-./frontend/cummins-project/node_modules
+./frontend/node_modules
