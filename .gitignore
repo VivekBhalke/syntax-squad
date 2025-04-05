@@ -1,0 +1,4 @@
+./backend/.env
+./frontend/cummins-project/.env
+./backend/node_modules
+./frontend/cummins-project/node_modules
